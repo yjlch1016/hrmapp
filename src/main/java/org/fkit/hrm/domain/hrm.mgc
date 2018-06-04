@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="org.fkit.hrm.dao.NoticeDao" x="795" y="284">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="org.fkit.hrm.dao.EmployeeDao" x="780" y="149">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="org.fkit.hrm.service.impl.HrmServiceImpl" x="314" y="127">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="org.fkit.hrm.dao.NoticeDao"
+            endpointName="noticeDao" kind="Simple"/>
+        <Association destinationClassName="org.fkit.hrm.dao.DeptDao"
+            endpointName="deptDao" kind="Simple"/>
+        <Association destinationClassName="org.fkit.hrm.dao.DocumentDao"
+            endpointName="documentDao" kind="Simple"/>
+        <Association destinationClassName="org.fkit.hrm.dao.UserDao"
+            endpointName="userDao" kind="Simple"/>
+        <Association destinationClassName="org.fkit.hrm.dao.JobDao"
+            endpointName="jobDao" kind="Simple"/>
+        <Association destinationClassName="org.fkit.hrm.dao.EmployeeDao"
+            endpointName="employeeDao" kind="Simple"/>
+        <Communication destinationClassName="org.fkit.hrm.dao.NoticeDao"/>
+        <Communication destinationClassName="org.fkit.hrm.dao.EmployeeDao"/>
+        <Communication destinationClassName="org.fkit.hrm.dao.UserDao"/>
+        <Communication destinationClassName="org.fkit.hrm.dao.DocumentDao"/>
+        <Communication destinationClassName="org.fkit.hrm.dao.JobDao"/>
+        <Communication destinationClassName="org.fkit.hrm.dao.DeptDao"/>
+    </Class>
+    <Class name="org.fkit.hrm.dao.UserDao" x="111" y="149">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="org.fkit.hrm.dao.DocumentDao" x="783" y="426">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="org.fkit.hrm.dao.JobDao" x="104" y="423">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="org.fkit.hrm.dao.DeptDao" x="106" y="278">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+</ClassDiagram>

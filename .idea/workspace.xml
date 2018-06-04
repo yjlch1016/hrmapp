@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6ec594a-b681-44e8-94cb-89c924ccb937" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/fkjava.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/StatBarBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/StatBarL.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/StatBar_admin.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/StatBar_time.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/bt_file.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/choose_file.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/delete.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/downLoad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_bgshw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_expand.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/left_nav_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/login_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/login_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/login_midbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/login_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/login_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/main_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/main_locbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/main_locleft.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/main_locright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/none.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/pointer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/top_exit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/top_home.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/top_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/topbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/images/update.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/datePicker.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/default/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/whyGreen/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/whyGreen/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/bigloading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/button-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/button-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/drop-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/exclamation.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/invalid-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/common/toggle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-panel-title-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-panel-title-pressed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-panel-title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-tab-title-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-tab-title-pressed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-tab-title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-text.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-trigger-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-trigger-pressed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/bg-trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/btn-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/btn-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/button-bg-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/button-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/checkbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/dateeditor-bar-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/dateeditor-header-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/controls/radio.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/dateeditor/date.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/dateeditor/icon-first.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/dateeditor/icon-last.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/dateeditor/icon-next.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/dateeditor/icon-prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/form/verify-corner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/grid-checkbox-checked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/grid-checkbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/grid-detail-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/grid-detail-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/grid-tree-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/grid-tree-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/header-bg-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/header-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/header2-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/popup-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/grid/popup-row-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/bar-button-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/checkbox-checked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/checkbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/cross.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-close-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-drop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-edited.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-first.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-last.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-load.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-next.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-sort-asc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-sort-desc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-unselect.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/icon-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/icon/spr_icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/accordion-content.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/accordion-header-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/accordion-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/closeAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/layout-header-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/layout-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/layout-sidebar-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/mini-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/mini-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/mini-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/mini-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/panel-content.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/panel-header-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/panel-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/panel-header2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/tabs-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/tabs-item-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/tabs-item-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/tabs-item-over-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/tabs-item-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/tabs-tools.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/layout/togglebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-item-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-item-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-item-over-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-item-over-m.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-item-over-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-line-x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/menu/menu-line-y.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/bar-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/header-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/header2-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-btn-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-btn-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-menu-item-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-menu.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-toolbar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/panel/panel-tools.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/folder-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/folder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/nodeloading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/nodeloading2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/nodeloading3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/nodeloading4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree-leaf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree-level.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree-noline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree-status-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree-status-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree-status.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/tree/tree.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/ui/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/ui/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/ui/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/ui/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/ui/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/ui/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/box-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/box.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/dialog-bc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/dialog-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/dialog-tc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/dialog-winbtns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/dialog.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/dialogbtn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/taskbar-task.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/taskbar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/taskbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/images/win/taskicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/accordion-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/icon-close-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/icon-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/layout-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-item-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-item-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-item-left-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-item-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-item-right-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/tabs-item-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/layout/togglebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/button-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/button-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/button1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/button2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/dateeditor-bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/dateeditor-btn-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/dateeditor-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/dateeditor-thead.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/grid-detail-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/grid-detail-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/gridalt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/gridbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/grideditor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/icon-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/icon-select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/icon-unselect.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/icon-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/input.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/inputdisabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/loading2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/loading3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/loading4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/ui/trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/win/dialog-winbtns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/win/dialogbtn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/images/win/dialogicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/bigloading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/gridheader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/accordion-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/icon-close-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/icon-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/layout-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-item-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-item-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-item-left-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-item-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-item-right-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabs-item-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/tabswitch.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/layout/togglebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/tab_arrow_spr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/tab_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/button-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/button-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/button1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/button2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/date.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/dateeditor-bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/dateeditor-btn-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/dateeditor-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/dateeditor-thead.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/grid-detail-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/grid-detail-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/gridalt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/gridbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/grideditor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/icon-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/icon-select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/icon-select2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/icon-unselect.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/icon-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/input.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/inputdisabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/loading2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/loading3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/loading4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/loadingl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/panel-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/spr_icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/ui/trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/win/dialog-winbtns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/win/dialogbtn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/images/win/dialogicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/checkboxradio.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/icon-down-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/icon-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/icon-up-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/icon-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/invalid_line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-date-icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-down-icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-focus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-l-focus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-l-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-r-focus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-r-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/form/text.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/grid/gridheaderbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/accordion-header-over.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/accordion-header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/layout-header-over.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/layout-header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/tabs-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/tabs-item-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/tabs-item-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/tabs-item-over-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/tabs-item-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/images/layout/tabs-tools.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/gridheader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/accordion-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/icon-close-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/icon-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/layout-header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-item-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-item-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-item-left-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-item-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-item-right-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/tabs-item-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/layout/togglebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/tab_arrow_spr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/tab_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/button-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/button-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/button1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/button2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/date.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/dateeditor-bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/dateeditor-btn-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/dateeditor-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/dateeditor-thead.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/grid-detail-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/grid-detail-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/gridalt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/gridbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/grideditor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/icon-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/icon-select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/icon-select2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/icon-unselect.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/icon-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/input.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/inputdisabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/loading2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/loading3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/loading4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/loadingl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/spr_icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/ui/trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/win/dialog-winbtns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/win/dialogbtn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/images/win/dialogicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/add.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/archives.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/attibutes.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/back.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/bluebook.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/bookpen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/busy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/candle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/coffee.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/comment.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/communication.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/config.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/customers.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/cut.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/database.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/delete.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/discuss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/edit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/graywarn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/greenwarn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/help.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/home.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/logout.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/mailbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/memeber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/modify.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/msn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/myaccount.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/ok.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/outbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/pager.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/photograph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/print.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/process.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/qq.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/refresh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/role.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/save-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/save.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/search2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/settings.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/true.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/icons/view.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/avatar1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/avatar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg-white-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/bg/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/blog/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/ActiveView.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/base_disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/ear.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/jar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/jdbc_module.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/library.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/sca_java.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/sca_spring.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/system.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/war.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/eap/workflow_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/flags/af.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/image1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/image2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/image3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/image4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/image5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/item_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/item_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/gallery/preview_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/hor-menu-search-close-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/icon-color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/inbox-nav-arrow-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/invoice/walmart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/logo-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/menu-toggler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/photo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/photo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-collapse-icon-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-collapse-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-config-icon-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-config-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-reload-icon-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-reload-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-remove-icon-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/portlet-remove-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/logo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/logo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/logo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/logo5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/logo6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/portfolio/logo_azteca.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/portfolio/logo_conquer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/portfolio/logo_metronic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/profile-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/profile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/profile/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/remove-icon-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/search-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/search/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/sidebar-menu-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/sidebar-toggler.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/social/amazon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/social/behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/social/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/social/deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/social/dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/syncfusion-icons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/img/syncfusion-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-colorpicker/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-colorpicker/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/chosen-bootstrap/chosen/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/skins/moono/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/data-tables/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/dropzone/images/spritemap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/gritter/images/gritter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/gritter/images/ie-spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/uniform/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/img/sample.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-cool.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-cry.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-embarassed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-foot-in-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-frown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-innocent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-kiss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-laughing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-money-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-sealed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-surprised.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-tongue-out.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-undecided.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-wink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/img/smiley-yell.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/img/example.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/moxieplayer.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/spellchecker/img/wline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/colorpicker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/iframe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/quicktime.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/realmedia.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/shockwave.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/video.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/img/windowsmedia.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/img/buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/img/items.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/img/menu_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/img/menu_check.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/img/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/img/tabs.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/img/button_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/img/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/skins/o2k7/img/button_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/artifacts/hrmapp_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/artifacts/hrmapp_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__cglib_cglib_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_4_3_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_aop_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_beans_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_context_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_core_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_expression_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_instrument_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_instrument_tomcat_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_jms_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_orm_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_test_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_tx_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_web_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_webmvc_portlet_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_springframework_spring_websocket_4_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__org_testng_testng_6_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/hrm.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/hrmapp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/DeptController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/DocumentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/EmployeeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/FormController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/JobController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/NoticeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/DeptDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/DocumentDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/EmployeeDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/JobDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/NoticeDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/DeptDynaSqlProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/DocumentDynaSqlProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/EmployeeDynaSqlProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/JobDynaSqlProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/NoticeDynaSqlProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/UserDynaSqlProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/Dept.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/Document.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/Job.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/Notice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/domain/hrm.mgc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/interceptor/AuthorizedInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/service/HrmService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/service/impl/HrmServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/util/common/HrmConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/util/tag/PageModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/util/tag/PagerTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/resources/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/dept/dept.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/dept/showAddDept.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/dept/showUpdateDept.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/document/document.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/document/showAddDocument.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/document/showUpdateDocument.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/employee/employee.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/employee/showAddEmployee.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/employee/showUpdateEmployee.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/job/job.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/job/showAddJob.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/job/showUpdateJob.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/left.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/loginForm.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/main.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/notice/notice.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/notice/previewNotice.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/notice/showAddNotice.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/notice/showUpdateNotice.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/right.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/taglib.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/top.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/user/showAddUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/user/showUpdateUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/jsp/user/user.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/page.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/springmvc-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/css/css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/css/pager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/WdatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/lang/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/WdatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/default/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/My97DatePicker/skin/whyGreen/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/fkjava_timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/jquery-1.11.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/jquery-migrate-1.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/core/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/core/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/ligerui.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/ligerui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerAccordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerCheckBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerCheckBoxList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerDateEditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerDrag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerEasyTab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerListBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerMenuBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerMessageBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerPanel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerPopupEdit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerPortal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerRadio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerRadioList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerResizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerSpinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerTab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerTextBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerTip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerToolBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/js/plugins/ligerWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Aqua/css/ligerui-tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray/css/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Gray2014/css/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/css/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Silvery/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/css/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/css/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/Tab/css/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/ligerUI/skins/ligerui-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/pages/error.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/pages/inbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/pages/lock.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/pages/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/pages/profile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/style-metro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/css/themes/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/backstretch/jquery.backstretch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-colorpicker/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datepicker/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-daterangepicker/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-daterangepicker/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datetimepicker/css/bootstrap-combined.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datetimepicker/css/datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-fileupload/bootstrap-fileupload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-fileupload/bootstrap-fileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-tag/css/bootstrap-tag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-tag/js/bootstrap-tag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-timepicker/compiled/timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-timepicker/js/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-toggle-buttons/static/js/jquery.toggle.buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-toggle-buttons/static/stylesheets/bootstrap-toggle-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-wizard/jquery.bootstrap.wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap-wysihtml5/wysiwyg-color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/breakpoints/breakpoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/chosen-bootstrap/chosen/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/chosen-bootstrap/chosen/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/skins/moono/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/ckeditor/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/clockface/css/clockface.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/clockface/js/clockface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/data-tables/DT_bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/data-tables/DT_bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/data-tables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/dropzone/css/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/dropzone/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/fancybox/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/fancybox/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/fullcalendar/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/fullcalendar/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/glyphicons/css/glyphicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/glyphicons_halflings/css/halflings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/gritter/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/gritter/js/jquery.gritter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/css/jquery.fileupload-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/jquery.fileupload-fp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/jquery.fileupload-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/jquery.fileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/jquery.iframe-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/vendor/canvas-to-blob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/vendor/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/vendor/load-image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-file-upload/js/vendor/tmpl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-inputmask/jquery.inputmask.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-knob/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-tags-input/jquery.tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-tags-input/jquery.tagsinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-validation/dist/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery-validation/dist/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery.blockui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery.bootpag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery.input-ip-address-control-1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery.pulsate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/jquery.vmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/jqvmap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/select2/select2_metro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/uniform/css/uniform.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/plugins/uniform/jquery.uniform.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/form-components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/form-fileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/form-samples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/form-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/form-wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/table-managed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/treemenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/ui-general.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/ui-jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/metronic/scripts/ui-sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/langs/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/langs/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/css/advhr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/js/rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advhr/rule.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/css/advimage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/image.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/js/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advimage/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/css/advlink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/js/advlink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlink/link.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlist/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/advlist/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autolink/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autolink/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autoresize/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autoresize/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autosave/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autosave/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/autosave/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/bbcode/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/bbcode/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/contextmenu/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/contextmenu/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/directionality/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/directionality/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/emotions.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/js/emotions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/emotions/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/dialog.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/js/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example_dependency/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/example_dependency/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/css/fullpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/fullpage.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/js/fullpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullpage/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullscreen/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullscreen/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/fullscreen/fullscreen.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/iespell/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/iespell/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/inlinepopups/template.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/insertdatetime/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/insertdatetime/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/layer/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/layer/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/legacyoutput/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/legacyoutput/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/lists/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/lists/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/css/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/js/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/js/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/media/media.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/nonbreaking/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/nonbreaking/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/noneditable/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/noneditable/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/pagebreak/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/pagebreak/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/js/pastetext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/js/pasteword.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/pastetext.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/paste/pasteword.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/preview/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/preview/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/preview/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/preview/jscripts/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/print/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/print/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/save/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/save/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/css/searchreplace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/js/searchreplace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/searchreplace/searchreplace.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/spellchecker/css/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/spellchecker/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/spellchecker/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/css/props.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/js/props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/style/props.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/tabfocus/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/tabfocus/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/cell.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/css/cell.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/css/row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/css/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/js/cell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/js/merge_cells.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/js/row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/js/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/merge_cells.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/row.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/table/table.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/blank.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/css/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/js/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/template/template.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/visualchars/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/visualchars/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/wordcount/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/wordcount/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/abbr.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/acronym.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/attributes.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/cite.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/css/attributes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/css/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/del.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/ins.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/abbr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/acronym.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/cite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/del.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/element_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/js/ins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/plugins/xhtmlxtras/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/about.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/anchor.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/charmap.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/color_picker.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/editor_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/editor_template_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/image.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/charmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/color_picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/js/source_editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/langs/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/langs/zh-cn_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/langs/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/langs/zh_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/link.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/shortcuts.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/default/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/highcontrast/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/highcontrast/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/highcontrast/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/advanced/source_editor.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/editor_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/editor_template_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/langs/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/langs/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/skins/default/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/skins/default/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/skins/o2k7/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/themes/simple/skins/o2k7/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/tiny_mce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/tiny_mce_popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/tiny_mce_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/utils/editable_selects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/utils/form_utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/utils/mctabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hrmapp/src/main/webapp/js/tiny_mce/utils/validate.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../hrmapp/out/" />
+    <ignored path="$PROJECT_DIR$/../hrmapp/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../hrmapp" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../hrmapp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Maven\apache-maven-3.5.2\Selenium" />
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hrmapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrmapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrmapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrmapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrmapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrmapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hrmapp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hrmapp\src\main\webapp" />
+      <recent name="D:\hrmapp\src\main\resources" />
+      <recent name="D:\hrmapp\src\main\java" />
+      <recent name="D:\hrmapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hrmapp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6ec594a-b681-44e8-94cb-89c924ccb937" name="Default" comment="" />
+      <created>1528128224099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528128224099</updated>
+      <workItem from="1528128225287" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="237000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20922747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../hrmapp/hrm.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <marker date="1527951900218" expanded="true" signature="75:275" ph="CREATE TABLE... dept_inf" />
+            <marker date="1527951900218" expanded="true" signature="277:417" ph="INSERT INTO dept_inf" />
+            <marker date="1527951900218" expanded="true" signature="431:630" ph="CREATE TABLE... job_inf" />
+            <marker date="1527951900218" expanded="true" signature="632:861" ph="INSERT INTO job_inf" />
+            <marker date="1527951900218" expanded="true" signature="876:1212" ph="CREATE TABLE... user_inf" />
+            <marker date="1527951900218" expanded="true" signature="1214:1345" ph="INSERT INTO user_inf" />
+            <marker date="1527951900218" expanded="true" signature="1364:2361" ph="CREATE TABLE... employee_inf" />
+            <marker date="1527951900218" expanded="true" signature="2363:3046" ph="INSERT INTO employee_inf" />
+            <marker date="1527951900218" expanded="true" signature="3063:3455" ph="CREATE TABLE... notice_inf" />
+            <marker date="1527951900218" expanded="true" signature="3474:3916" ph="CREATE TABLE... document_inf" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hrmapp/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hrmapp/src/main/java/org/fkit/hrm/dao/provider/JobDynaSqlProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hrmapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hrmapp/src/main/webapp/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
