@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="hrmapp:war">
-    <output-path>$PROJECT_DIR$/../hrmapp/target</output-path>
-    <root id="archive" name="hrmapp.war">
-      <element id="artifact" artifact-name="hrmapp:war exploded" />
-    </root>
-  </artifact>
-</component>
